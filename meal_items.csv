@@ -1,0 +1,13 @@
+Item,Category,Calories,Popularity
+Burger,Main,500,7
+Pizza,Main,500,7
+Wrap,Main,500,7
+Pasta,Main,500,7
+Fries,Side,200,6
+Salad,Side,200,6
+Nuggets,Side,200,6
+Wedges,Side,200,6
+Cola,Drink,300,8
+Juice,Drink,300,8
+Water,Drink,300,8
+Milkshake,Drink,300,8
